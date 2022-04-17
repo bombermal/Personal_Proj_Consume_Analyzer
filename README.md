@@ -12,7 +12,14 @@ The project is divided in 5 parts:
     - [X] Read store information
     - [X] Read data/time information
 3. Store data
-  - [ ] Store data in DB?    
+  - [ ] Store data in MySql
+    - [X] Install docker
+     - [X] Create container    
+    - [ ] Install MySqlWorkbench
+      - [ ] Create table
+    - [ ] Ipybn
+      - [ ] Connect to main.ipynb
+
 4. Process data
   - [ ] Group stores
   - [ ] Group products by category ( categoryze by processment type )
